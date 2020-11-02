@@ -13,6 +13,11 @@ class Student
     @grade = grade
     @id = id
    end
+   
+   def 
+     
+   end
+
 
 
 end
